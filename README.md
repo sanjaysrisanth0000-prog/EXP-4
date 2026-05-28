@@ -43,7 +43,8 @@ WAVEFORM:
 <img width="920" height="434" alt="Screenshot 2026-05-28 113659" src="https://github.com/user-attachments/assets/6b5e33fe-793e-4f08-9831-7deac966b982" />
 
 Bridge rectifier with filter:
-<img width="920" height="434" alt="Screenshot 2026-05-28 113659" src="https://github.com/user-attachments/assets/bd0a4269-7380-49ae-8c83-6ed91afc8a6b" />
+<img width="1042" height="504" alt="Screenshot 2026-05-28 113704" src="https://github.com/user-attachments/assets/b0df2037-f6ea-4bd2-87ee-b31758ebe4f8" />
+
 
 WAVEDORM:
 <img width="900" height="413" alt="Screenshot 2026-05-28 113843" src="https://github.com/user-attachments/assets/37897951-78a4-4173-a373-dbe387194766" />
